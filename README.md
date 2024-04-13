@@ -1,6 +1,7 @@
 # Supervised_Learning
 Machine Learning
-data_funding.csv: Data Funding Dataset
+data_funding.csv: Data Funding Dataset.
+subset_id_cluster: It has cluster number data.
 
 045041.ipynb: Contains the excutable code and the project report for the dataset
 
